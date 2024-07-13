@@ -64,7 +64,7 @@ Contact10.defaultProps = {
     'Eome, I am the Owner of the Website I develop it actively and hope you like it :)',
   location1: 'Eome (Owner)',
   location2Description:
-    'Currently no one, but that can change :)',
+    'Currently no one, but I hope that can change :)',
 }
 
 Contact10.propTypes = {
