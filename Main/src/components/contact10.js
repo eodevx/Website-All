@@ -25,7 +25,7 @@ const Contact10 = (props) => {
             <p className="thq-body-large">{props.location1Description}</p>
             <div className="contact10-container2">
               <span className="thq-button-flat thq-body-small">
-                Get directions
+                Contact Me
               </span>
             </div>
           </div>
@@ -39,7 +39,7 @@ const Contact10 = (props) => {
             <p className="thq-body-large">{props.location2Description}</p>
             <div className="contact10-container4">
               <span className="thq-button-flat thq-body-small">
-                Get directions
+                Love to them
               </span>
             </div>
           </div>
@@ -59,12 +59,12 @@ Contact10.defaultProps = {
   location2ImageAlt: 'image2Alt',
   location1ImageAlt: 'image1Alt',
   content1:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in ero.',
+    'Our helpers and supporters.',
   location1Description:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in ero.',
-  location1: 'Bucharest',
+    'Eome, I am the Owner of the Website I develop it actively and hope you like it :)',
+  location1: 'Eome (Owner)',
   location2Description:
-    'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in ero.',
+    'Currently no one, but that can change :)',
 }
 
 Contact10.propTypes = {
